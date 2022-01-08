@@ -38,12 +38,4 @@ This Bot is Created by ShinobuProject, If your kanging this without fork at leas
 <a href="https://t.me/machinaxupdate"> <img src="https://img.shields.io/badge/Update-Channel-green?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a><br>
 </p>
 
-## Credit 
-
-• [Vain](https://github.com/shiinobu)
-
-• [Sena](https://github.com/kennedy-ex)
-
-• [Arya](https://github.com/Aryazakaria01)
-
-• [Kyy](https://github.com/zxcskyy)
+## 
